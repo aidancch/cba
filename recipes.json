@@ -1,0 +1,442 @@
+[
+    {
+      "name": "Madras",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz vodka", "2 oz orange juice", "2 oz cranberry juice"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lime"
+    },
+    {
+      "name": "Sea Breeze",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz vodka", "3 oz cranberry juice", "1 oz grapefruit juice"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lime"
+    },
+    {
+      "name": "Moscow Mule",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz vodka", "4 oz ginger beer", "0.25 oz lime juice"],
+      "served_in": "Copper mug",
+      "served": "on the rocks",
+      "garnish": "Lime"
+    },
+    {
+      "name": "Sex on the Beach",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1 oz vodka", "0.5 oz peach schnapps", "2 oz orange juice", "2 oz cranberry juice"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Orange"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["0.5 oz vodka", "0.5 oz gin", "0.5 oz white rum", "0.5 oz tequila", "0.5 oz triple sec", "1 oz lemon juice", "1 oz simple syrup", "1 oz cola (top)"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lemon slice"
+    },
+    {
+      "name": "Dark ‘n Stormy",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz dark rum", "4 oz ginger beer", "0.25 oz lime juice"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lime"
+    },
+    {
+      "name": "Tequila Sunrise",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz tequila", "4 oz orange juice", "0.25 oz grenadine (sink)"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Cherry"
+    },
+    {
+      "name": "Paloma",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz tequila", "0.25 oz lime", "0.5 oz grapefruit juice", "4 oz grapefruit soda"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lime"
+    },
+    {
+      "name": "Classic Old Fashioned",
+      "category": "Built Drinks: Old Fashioned-Style Cocktails",
+      "ingredients": ["2 oz rye or bourbon", "bar spoon of sugar", "3 dash Angostura bitters"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel or cherry"
+    },
+    {
+      "name": "Oaxacan Old Fashioned",
+      "category": "Built Drinks: Old Fashioned-Style Cocktails",
+      "ingredients": ["1.5 oz reposado", "0.5 oz mezcal", "0.25 oz agave syrup", "dash Angostura bitters"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+      "name": "Mint Julep",
+      "category": "Built Drinks: Old Fashioned-Style Cocktails",
+      "ingredients": ["2 oz bourbon", "8 mint sprigs", "0.25 oz simple syrup"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Mint"
+    },
+    {
+      "name": "Toronto",
+      "category": "Built Drinks: Old Fashioned-Style Cocktails",
+      "ingredients": ["2 oz rye whiskey", "0.5 oz Fernet Branca", "0.25 oz simple syrup"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Lemon twist"
+    },
+    {
+      "name": "Classic Manhattan",
+      "category": "Built Drinks: Manhattan-Style Cocktails",
+      "ingredients": ["2 oz rye or bourbon", "1 oz sweet vermouth", "2 dash Angostura bitters"],
+      "served_in": "Coupe or martini glass",
+      "served": "straight up",
+      "garnish": "Cherry"
+    },
+    {
+      "name": "Brooklyn",
+      "category": "Built Drinks: Manhattan-Style Cocktails",
+      "ingredients": ["2 oz rye or bourbon", "1 oz dry vermouth", "0.25 oz maraschino liqueur", "2 dash Angostura bitters"],
+      "served_in": "Coupe glass",
+      "served": "straight up",
+      "garnish": "Cherry"
+    },
+    {
+      "name": "Vieux Carré",
+      "category": "Built Drinks: Manhattan-Style Cocktails",
+      "ingredients": ["1 oz rye whiskey", "1 oz brandy", "1 oz sweet vermouth", "bar spoon Bénédictine", "dash Angostura bitters", "dash Peychaud’s bitters"],
+      "served_in": "Coupe glass",
+      "served": "straight up",
+      "garnish": "Lemon twist"
+    },
+    {
+      "name": "Classic Negroni",
+      "category": "Built Drinks: Negroni-Style Cocktails",
+      "ingredients": ["1 oz gin", "1 oz sweet vermouth", "1 oz Campari"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+      "name": "Boulevardier",
+      "category": "Built Drinks: Negroni-Style Cocktails",
+      "ingredients": ["1 oz bourbon or rye", "1 oz sweet vermouth", "1 oz Campari"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+      "name": "Americano",
+      "category": "Built Drinks: Negroni-Style Cocktails",
+      "ingredients": ["1 oz sweet vermouth", "1 oz Campari", "top soda water"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+      "name": "Finding Myself in Oaxaca",
+      "category": "Built Drinks: Negroni-Style Cocktails",
+      "ingredients": ["1 oz mezcal", "1 oz blanc vermouth", "1 oz Aperol"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+      "name": "Negroni Sbagliato",
+      "category": "Built Drinks: Negroni-Style Cocktails",
+      "ingredients": ["1 oz sweet vermouth", "1 oz Campari", "top sparkling wine"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+      "name": "Preakness",
+      "category": "Built Drinks: Negroni-Style Cocktails",
+      "ingredients": ["1.5 oz bourbon", "0.75 oz sweet vermouth", "0.25 oz Bénédictine", "dash Angostura bitters"],
+      "served_in": "Rocks glass",
+      "served": "on the rocks",
+      "garnish": "Orange peel"
+    },
+    {
+        "name": "Sour",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz desired spirit", "1 oz lemon juice", "0.5 oz simple syrup", "optional: egg white"],
+        "served_in": "Rocks glass",
+        "served": "on the rocks",
+        "garnish": "Cherry"
+    },
+    {
+        "name": "French Martini",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["1.5 oz vodka", "0.5 oz Chambord", "1.5 oz pineapple juice"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Daiquiri",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz white rum", "1 oz lime juice", "0.5 oz simple syrup"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Hemingway",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz light rum", "1 oz grapefruit juice", "0.5 oz maraschino liqueur", "0.5 oz lime juice"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Mai Tai",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["1 oz light rum", "1 oz dark rum", "0.5 oz triple sec", "0.75 oz orgeat syrup", "1 oz lime juice", "dash Angostura bitters"],
+        "served_in": "Rocks glass",
+        "served": "on the rocks",
+        "garnish": "Lime/mint"
+    },
+    {
+        "name": "Cosmopolitan",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["1.5 oz vodka", "0.5 oz triple sec", "0.5 oz lime juice", "1 oz cranberry juice", "0.5 oz simple syrup"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Sidecar",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz brandy", "0.5 oz triple sec", "0.75 oz lemon juice", "0.25 oz simple syrup"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "Orange twist"
+    },
+    {
+        "name": "Piña Colada",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz white rum", "1.5 oz coconut cream", "1.5 oz pineapple juice", "0.5 oz lime juice"],
+        "served_in": "Rocks glass",
+        "served": "on the rocks",
+        "garnish": "Cherry"
+    },
+    {
+        "name": "Clover Club",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["1.5 oz gin", "0.5 oz Chambord", "0.5 oz simple syrup", "0.5 oz lemon juice", "optional: egg white"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Margarita",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz blanco tequila", "0.75 oz triple sec", "1 oz lime juice", "0.25 oz simple syrup", "optional: salted rim"],
+        "served_in": "Cocktail glass",
+        "served": "up or on the rocks",
+        "garnish": "Lime"
+    },
+    {
+        "name": "Bee’s Knees",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz gin", "0.75 oz lemon juice", "0.75 oz honey syrup", "dash Peychaud’s bitters"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Honeysuckle",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz white rum", "0.75 oz lime juice", "0.75 oz honey syrup"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Between the Sheets",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["1 oz light rum", "1 oz brandy", "1 oz triple sec", "0.75 oz lemon juice"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Gimlet",
+        "category": "Shaken Drinks: Sour-Style Cocktails",
+        "ingredients": ["2 oz gin", "0.75 oz lime juice", "0.75 oz simple syrup"],
+        "served_in": "Cocktail glass",
+        "served": "up or on the rocks",
+        "garnish": "Lime"
+    },
+    {
+        "name": "Espresso Martini",
+        "category": "Shaken Drinks: Coffee, Cream, Egg Cocktails",
+        "ingredients": ["1 oz vodka or reposado", "1 oz coffee liqueur", "1 oz espresso", "0.25 oz simple syrup"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "3 coffee beans"
+    },
+    {
+        "name": "Alexander",
+        "category": "Shaken Drinks: Coffee, Cream, Egg Cocktails",
+        "ingredients": ["1 oz brandy", "1 oz brown crème de cacao", "1 oz heavy cream"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Mudslide",
+        "category": "Shaken Drinks: Coffee, Cream, Egg Cocktails",
+        "ingredients": ["1 oz vodka (or Irish whiskey)", "1 oz coffee liqueur", "1 oz Irish cream"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "NG"
+    },
+    {
+        "name": "Grasshopper",
+        "category": "Shaken Drinks: Coffee, Cream, Egg Cocktails",
+        "ingredients": ["1 oz green crème de menthe", "1 oz crème de cacao", "1 oz heavy cream"],
+        "served_in": "Cocktail glass",
+        "served": "straight up",
+        "garnish": "Mint"
+    },
+    {
+        "name": "Kamikaze",
+        "category": "Shaken Drinks: Shooters",
+        "ingredients": ["1 oz vodka", "0.5 oz triple sec", "0.25 oz lemon juice", "0.25 oz simple syrup"],
+        "served_in": "Shot glass",
+        "served": "without ice",
+        "garnish": "None"
+    },
+    {
+        "name": "Mission Accomplished",
+        "category": "Shaken Drinks: Shooters",
+        "ingredients": ["Kamikaze shot", "top with grenadine"],
+        "served_in": "Shot glass",
+        "served": "without ice",
+        "garnish": "None"
+    },
+    {
+        "name": "Green Tea",
+        "category": "Shaken Drinks: Shooters",
+        "ingredients": ["0.5 oz (Irish) whiskey", "0.5 oz peach schnapps", "0.25 oz lemon juice", "0.25 oz simple syrup", "splash citrus soda"],
+        "served_in": "Shot glass",
+        "served": "without ice",
+        "garnish": "None"
+    },
+    {
+        "name": "Blow Job",
+        "category": "Shaken Drinks: Shooters",
+        "ingredients": ["1 oz Kahlua", "0.5 oz crème de cacao", "0.5 oz Irish cream liqueur"],
+        "served_in": "Shot glass",
+        "served": "without ice",
+        "garnish": "Whipped cream"
+    },
+    {
+        "name": "German Chocolate Cake",
+        "category": "Shaken Drinks: Shooters",
+        "ingredients": ["1 oz vodka", "1 oz hazelnut liqueur"],
+        "served_in": "Shot glass",
+        "served": "without ice",
+        "garnish": "Sugared lemon"
+    },
+    {
+        "name": "Scooby Snacks",
+        "category": "Shaken Drinks: Shooters",
+        "ingredients": ["0.5 oz coconut rum", "0.5 oz melon liqueur", "0.25 oz pineapple juice", "0.25 oz heavy cream"],
+        "served_in": "Shot glass",
+        "served": "without ice",
+        "garnish": "None"
+    },
+    {
+        "name": "Classic Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2.5 oz vodka/gin", "0.75 oz dry vermouth", "optional: orange bitters"],
+        "served_in": "Martini glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Dry Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2.5 oz vodka/gin", "0.5 oz dry vermouth", "optional: orange bitters"],
+        "served_in": "Martini glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Extra Dry Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2.5 oz vodka/gin", "0.25 oz dry vermouth", "optional: orange bitters"],
+        "served_in": "Martini glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Wet Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2.5 oz vodka/gin", "1 oz dry vermouth", "optional: orange bitters"],
+        "served_in": "Martini glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Dirty Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2.5 oz vodka/gin", "0.5 oz dry vermouth", "0.5 oz olive brine"],
+        "served_in": "Martini glass",
+        "served": "straight up",
+        "garnish": "Olive"
+    },
+    {
+        "name": "Perfect Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2.5 oz vodka/gin", "0.5 oz dry vermouth", "0.5 oz sweet vermouth"],
+        "served_in": "Martini glass",
+        "served": "straight up",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Vesper Martini",
+        "category": "Shaken or Stirred: Martini-Style Cocktails",
+        "ingredients": ["2 oz gin", "0.5 oz vodka", "0.25 oz Lillet Blanc"],
+        "served_in": "Martini glass",
+        "served": "straight up (shaken)",
+        "garnish": "Lemon twist"
+    },
+    {
+        "name": "Gin Fizz",
+        "category": "Shaken or Stirred: Sparkling Drinks",
+        "ingredients": ["2 oz gin", "0.75 oz lemon juice", "0.75 oz simple syrup", "1 egg white", "top with soda water"],
+        "served_in": "Collins glass",
+        "served": "on the rocks",
+        "garnish": "NG"
+    },
+    {
+        "name": "Aperol Spritz",
+        "category": "Shaken or Stirred: Sparkling Drinks",
+        "ingredients": ["2 oz Aperol", "3 oz prosecco", "splash soda water"],
+        "served_in": "Wine glass",
+        "served": "on the rocks",
+        "garnish": "Orange"
+    },
+    {
+        "name": "French 75",
+        "category": "Shaken or Stirred: Sparkling Drinks",
+        "ingredients": ["1 oz gin", "0.5 oz lemon juice", "0.5 oz simple syrup", "4 oz champagne"],
+        "served_in": "Flute glass",
+        "served": "straight up",
+        "garnish": "NG"
+    }
+]
