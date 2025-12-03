@@ -64,6 +64,30 @@
       "garnish": "Lime"
     },
     {
+      "name": "Mojito",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["2 oz white rum", "1 oz lime",  "5 pc mint sprigs", "0.75 oz simple syrup", "4 oz soda water"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lime"
+    },
+    {
+      "name": "Tom Collins",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz gin", "1 oz lemon juice", "0.5 oz simple syrup", "4 oz soda water"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Lemon/cherry"
+    },
+    {
+      "name": "Dirty Shirley",
+      "category": "Built Drinks: Highballs",
+      "ingredients": ["1.5 oz vodka", "4 oz sprite", "0.75 oz grenadine"],
+      "served_in": "Collins",
+      "served": "on the rocks",
+      "garnish": "Cherry"
+    },
+    {
       "name": "Classic Old Fashioned",
       "category": "Built Drinks: Old Fashioned-Style Cocktails",
       "ingredients": ["2 oz rye or bourbon", "bar spoon of sugar", "3 dash Angostura bitters"],
@@ -114,7 +138,7 @@
     {
       "name": "Vieux Carré",
       "category": "Built Drinks: Manhattan-Style Cocktails",
-      "ingredients": ["1 oz rye whiskey", "1 oz brandy", "1 oz sweet vermouth", "bar spoon Bénédictine", "dash Angostura bitters", "dash Peychaud’s bitters"],
+      "ingredients": ["1 oz rye whiskey", "1 oz brandy", "1 oz sweet vermouth", "bar spoon Benedictine", "dash Angostura bitters", "dash Peychaud's bitters"],
       "served_in": "Coupe glass",
       "served": "straight up",
       "garnish": "Lemon twist"
@@ -162,7 +186,7 @@
     {
       "name": "Preakness",
       "category": "Built Drinks: Negroni-Style Cocktails",
-      "ingredients": ["1.5 oz bourbon", "0.75 oz sweet vermouth", "0.25 oz Bénédictine", "dash Angostura bitters"],
+      "ingredients": ["1.5 oz bourbon", "0.75 oz sweet vermouth", "0.25 oz Benedictine", "dash Angostura bitters"],
       "served_in": "Rocks glass",
       "served": "on the rocks",
       "garnish": "Orange peel"
